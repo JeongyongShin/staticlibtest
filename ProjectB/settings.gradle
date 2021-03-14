@@ -1,0 +1,7 @@
+include ':projectA'
+include ':projectA'
+include ':projectA'
+include ':projectA'
+include ':projectA'
+include ':app'
+rootProject.name = "ProjectB"
